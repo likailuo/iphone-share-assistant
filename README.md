@@ -2,7 +2,7 @@
 
 Windows 家庭 SMB 共享管理工具。通过简洁的桌面界面选择本机文件夹、管理 SMB 共享，并为 iPhone“文件”App 提供可直接使用的 SMB 连接地址。
 
-当前最终版本：**3.34**
+当前最终版本：**3.35**
 
 ## 项目定位
 
@@ -54,8 +54,8 @@ powershell.exe -ExecutionPolicy Bypass -File ".\源码\主程序-3.0.ps1"
 
 ## 下载最终版
 
-- [下载 iPhone 共享助手 3.34](https://github.com/likailuo/iphone-share-assistant/releases/tag/v3.34)
-- [直接下载 EXE](https://github.com/likailuo/iphone-share-assistant/releases/download/v3.34/iPhone.-3.34.exe)
+- [下载 iPhone 共享助手 3.35](https://github.com/likailuo/iphone-share-assistant/releases/tag/v3.35)
+- [直接下载 EXE](https://github.com/likailuo/iphone-share-assistant/blob/main/%E6%89%93%E5%8C%85%E8%BE%93%E5%87%BA/iPhone%E5%85%B1%E4%BA%AB%E5%8A%A9%E6%89%8B-3.35.exe)
 
 ## 构建项目
 
@@ -80,7 +80,7 @@ powershell.exe -ExecutionPolicy Bypass -File ".\ui-layout.test.ps1"
 ```text
 源码/主程序-3.0.ps1       主程序与 WPF 界面
 资源/222.ico              程序图标
-打包输出/iPhone共享助手-3.34.exe  最终版程序
+打包输出/iPhone共享助手-3.35.exe  最终版程序
 docs/                     设计规格与实施计划
 build.ps1                 PowerShell 构建脚本
 打包.bat                  Windows 打包入口
